@@ -1,0 +1,7 @@
+@inproceedings{REPO-322,
+    author = "Mayo, Bar and Hazan, Tamir and Tal, Ayellet",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "16898--16907",
+    title = "{Visual Navigation with Spatial Attention}",
+    year = "2021"
+}
